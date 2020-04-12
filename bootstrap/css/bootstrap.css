@@ -1735,8 +1735,11 @@ pre code {
   border: 0;
 }
 
-.table-striped tbody tr:nth-of-type(odd) {
+.table-striped-gray tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
+}
+.table-striped-blue tbody tr:nth-of-type(odd) {
+  background-color: #ADD8E6;
 }
 
 .table-hover tbody tr:hover {
