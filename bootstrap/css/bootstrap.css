@@ -1737,10 +1737,10 @@ pre code {
 }
 
 .table-striped-gray tbody tr:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: #eeeeee;
 }
 .table-striped-blue tbody tr:nth-of-type(odd) {
-  background-color: #ADD8E6;
+  background-color: #e6efff;
 }
 .table-hover tbody tr:hover {
   color: #212529;
