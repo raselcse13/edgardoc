@@ -1688,7 +1688,7 @@ pre code {
   }
 }
 
-.table {
+/*.table {
   width: 100%;
   margin-bottom: 1rem;
   color: #212529;
@@ -1735,6 +1735,7 @@ pre code {
 .table-borderless tbody + tbody {
   border: 0;
 }
+*/
 
 .table-striped-gray tbody tr:nth-of-type(odd) {
   background-color: #eeeeee;
@@ -1742,6 +1743,7 @@ pre code {
 .table-striped-blue tbody tr:nth-of-type(odd) {
   background-color: #e6efff;
 }
+/*
 .table-hover tbody tr:hover {
   color: #212529;
   background-color: rgba(0, 0, 0, 0.075);
@@ -2032,7 +2034,7 @@ pre code {
 .table-responsive > .table-bordered {
   border: 0;
 }
-
+*/
 .form-control {
   display: block;
   width: 100%;
